@@ -18,6 +18,8 @@ Start here:
 - English docs: [en/what-leaked.md](en/what-leaked.md)
 - English structure notes: [en/how-claude-code-seems-structured.md](en/how-claude-code-seems-structured.md)
 - English index: [en/README.md](en/README.md)
+- Runnable clean-room CLI rebuild: [cli-rebuild/README.md](cli-rebuild/README.md)
+  An interactive, modular, multi-agent simulator for experimenting with prompt layers, workflows, tools, and memory.
 
 Primary sources:
 

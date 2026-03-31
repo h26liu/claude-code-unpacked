@@ -1,0 +1,12 @@
+{
+  "name": "claude-code-clean-room-cli-rebuild",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Educational clean-room simulator of a Claude Code-like CLI runtime",
+  "type": "module",
+  "scripts": {
+    "inspect": "node src/index.mjs inspect",
+    "trace": "node src/index.mjs trace",
+    "tui": "node src/index.mjs tui"
+  }
+}
