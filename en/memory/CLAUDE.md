@@ -1,4 +1,4 @@
-# Example Project Memory
+# Example project memory
 
 - Explain architecture before changing it.
 - Prefer small, reviewable patches.

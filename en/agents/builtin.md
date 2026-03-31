@@ -1,4 +1,4 @@
-# Builtin Agents
+# Builtin agents
 
 Based on extracted prompt names, these appear to be the most structurally important builtins:
 

@@ -1,4 +1,4 @@
-# Claude Code, After the npm Prompt Leak
+# Claude Code, after the npm prompt leak
 
 This directory contains the English version of the repo content.
 

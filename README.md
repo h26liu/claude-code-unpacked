@@ -1,4 +1,4 @@
-# Claude Code, After the npm Prompt Leak
+# Claude Code, after the npm prompt leak
 
 Disclaimer: this is an independent, unofficial reconstruction based on public documentation and publicly extracted package artifacts.
 

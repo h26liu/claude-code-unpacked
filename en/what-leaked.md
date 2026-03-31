@@ -1,4 +1,4 @@
-# What Actually Leaked
+# What actually leaked
 
 When people say "the Claude Code npm release leaked its system prompt," they usually compress three different things into one sentence.
 

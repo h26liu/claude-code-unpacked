@@ -1,4 +1,4 @@
-# Builtin Tools Mentioned In Extracted Catalogs
+# Builtin tools mentioned in extracted catalogs
 
 - `Bash`
 - `ReadFile`

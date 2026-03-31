@@ -1,4 +1,4 @@
-# Prompt Layer Model
+# Prompt layer model
 
 ## Base layer
 

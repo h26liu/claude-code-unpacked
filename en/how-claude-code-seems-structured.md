@@ -1,4 +1,4 @@
-# How Claude Code Seems To Be Structured
+# How Claude Code seems to be structured
 
 This document mixes two categories of evidence:
 

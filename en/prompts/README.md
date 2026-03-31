@@ -1,4 +1,4 @@
-# Prompt Layers
+# Prompt layers
 
 The extracted prompt catalogs are valuable because they show that Claude Code appears to have many prompt layers rather than one.
 
