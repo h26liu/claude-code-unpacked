@@ -1,0 +1,27 @@
+[provider]
+type = "mock"
+model = "mock-claude-code"
+base_url = ""
+api_key = ""
+api_key_env = "CLI_REBUILD_API_KEY"
+temperature = 0.2
+max_output_tokens = 1200
+
+[runtime]
+workspace_root = "."
+max_turns = 10
+max_tool_output_chars = 12000
+allow_bash = true
+
+[session]
+scenario = "default"
+plan_mode = false
+memory = [
+  "Prefer small, reviewable changes.",
+  "Explain architecture before large edits."
+]
+
+[hooks]
+pre_tool = []
+post_tool = []
+on_final = []
